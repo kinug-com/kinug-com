@@ -4,7 +4,7 @@
 
 公開していますが、個人的な作業記録や備忘録として使っていますので、内容が古かったり不正確なことがありますことをご了承ください。
 
-内容に誤りなどがあった場合には、コメント等でお知らせいただければ助かります。
+内容に誤りなどがあった場合には、下記 Twitter 等でお知らせいただければ助かります。
 
 * [Twitter](https://twitter.com/kinug)
 * [SlideShare](http://www.slideshare.net/hironobukinugawa/presentations)
