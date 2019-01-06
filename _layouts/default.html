@@ -18,13 +18,17 @@
 
         <header>
           <ul>
-          {% assign filename = page.url | replace_first: '/', '' | replace: '/', '-'  | replace: '.html', '.md' %}
+          {% assign filename = page.url | replace_first: '/', '' | replace: '.html', '.md' %}
           <li>page.title : {{ page.title }}</li>
           <li>site.title : {{ site.title }}</li>
           <li>site.github.repository_name : {{ site.github.repository_name }}</li>
           <li>page.url : {{ page.url }}</li>
           <li>post.filename : {{ post.filename }}</li>
+          {% if filename %}
           <li>filename : {{ filename }}</li>
+          {% else %}
+          <li>page.url : {{ page.url }}</li>
+          {% endif %}
           <li>edit : {{ page.title | remove: " -" | replace: " ", "-" | downcase }}.md</li>
           <!-- h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2 -->
           <ul>
