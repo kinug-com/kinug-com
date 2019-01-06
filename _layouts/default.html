@@ -17,10 +17,12 @@
       <div class="inner">
 
         <header>
-          <!-- h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1 -->
-          <h1>{{ page.title }} / {{ page.url }} / {{ post.filename }}</h1>
-          <h1>{{ page.title | remove: " -" | replace: " ", "-" | downcase }}.md</h1>
+          <ul>
+          <li>{{ page.title | default: site.title | default: site.github.repository_name }}</li>
+          <li>{{ page.title }} / {{ page.url }} / {{ post.filename }}</li>
+          <li>{{ page.title | remove: " -" | replace: " ", "-" | downcase }}.md</li>
           <!-- h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2 -->
+          <ul>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
