@@ -64,7 +64,7 @@ gitit の設定ファイルの math の設定を以下のように変更する
 
 ## サンプル
 
-$x = \frac{{ - b \pm \sqrt {b^2 - 4ac} }}{{2a}}$
+> $x = \frac{{ - b \pm \sqrt {b^2 - 4ac} }}{{2a}}$
 
 でも、表示が汚い！ブラウザを識別して表示方法を変えるようなオプションが欲しい。
 
@@ -84,17 +84,17 @@ Ubuntu のパッケージで入る Gitit はプラグインが無効になって
 
     Ambiguous module name `Control.Monad.Trans'
     it was found in multiple packages: mtl-1.1.0.2 monads-fd-0.1.0.1
-    
+
 これは、Control.Monad.Trans が複数のパッケージに存在していると言うことらしい、パッケージを指定してモジュールをロードする方法もあるようだが、ここでは、monad-fd と依存パッケージをを消してしまうことにした。
 
     ghc-pkg unregister data-accessor-monads-fd
     ghc-pkg unregister monads-fd
-    
+
 これでロード時のエラーは出なくなった""が、画像ファイルがリンク切れとして表示される。proxy したときに、画像ファイルへのパスが変わっているのが html 上で書き替えられていないらしい、proxy-html の設定がおかしいのかもしれないが、ここでは、 Dot.hs を直接編集して正しいパスを出力させるようにした。"" サーバのリブートでうまく出るようになった。以下は不要なコード（いずれ消す）。
 
     then return $ Para [Image name ("/wiki/img" </> outfile, "")]
                                      ^^^^^ ここを追加
-				     
+
 場当たり的だけど、スマートな方法はあとで検討する。
 
 ## サンプル
