@@ -17,21 +17,13 @@
       <div class="inner">
 
         <header>
-          <ul>
-          {% assign filename = page.url | replace_first: '/', '' | replace: '.html', '.md' %}
-          <li>page.title : {{ page.title }}</li>
-          <li>site.title : {{ site.title }}</li>
-          <li>site.github.repository_name : {{ site.github.repository_name }}</li>
-          <li>page.url : {{ page.url }}</li>
-          <li>post.filename : {{ post.filename }}</li>
+          {% assign filename = page.url | replace_first: '/wiki/', ''  %}
           {% if filename %}
-          <li>filename : {{ filename }}</li>
+          <h1>{{ filename | replace_first '/', '' | replace: '.html', '.md' }}</h1>
           {% else %}
-          <li>page.url : {{ page.url }}</li>
+          <h1>kinug/wiki</h1>
           {% endif %}
-          <li>edit : {{ page.title | remove: " -" | replace: " ", "-" | downcase }}.md</li>
           <!-- h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2 -->
-          <ul>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
