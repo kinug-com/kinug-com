@@ -1,6 +1,4 @@
 theme: jekyll-theme-tactile
-title: kinug.com
-description: welcome to kinug.com website
+description: kinug wiki
 plugins:
   - jekyll-filename
-  
