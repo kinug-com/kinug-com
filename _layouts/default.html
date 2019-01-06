@@ -18,8 +18,8 @@
 
         <header>
           {% assign filename = page.url | replace_first: '/wiki/', ''  %}
-          {% if filename %}
-          <h1>{{ filename | replace_first '/', '' | replace: '.html', '.md' }}</h1>
+          {% if filename == "" %}
+          <h1>{{ filename | replace: '.html', '' }}</h1>
           {% else %}
           <h1>kinug/wiki</h1>
           {% endif %}
