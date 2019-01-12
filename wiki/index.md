@@ -17,10 +17,9 @@
 * [3DCG/C4D-Tips](3DCG/C4D-Tips.html)
 * [3DCG/C4D-Development](3DCG/C4D-Development.html)
 
-* [3DCG/Vue](3DGC/Vue.html)
+* [3DCG/Vue](3DCG/Vue.html)
 
 # Editor
-
 * [Editor/Atom](Editor/Atom.html)
 * [Editor/Sublime Text 2](Editor/Sublime Text 2.html)
 
@@ -77,15 +76,15 @@
 
 # Windows
 
-* [Windows/Apps](Tips/Windows 8/Apps.html)
-* [Windows/Firefox](Tips/Windows 10/Firefox.html)
-* [Windows/Gnupack](Tips/Gnupack.html)
-* [Windows/Tips](Tips/Windows 8/Tips.html)
-* [Windows/Windows 8 usage](Tips/Windows 8/Windows 8 usage.html)
+* [Windows/Apps](Windows/Apps.html)
+* [Windows/Firefox](Windows/Firefox.html)
+* [Windows/Gnupack](Windows/Gnupack.html)
+* [Windows/Tips](Windows/Tips.html)
+* [Windows/Windows 8 usage](Windows/Windows 8 usage.html)
 
 # Game
 
-* [Game/Cookie Clicker](Tips/Cookie Clicker.html)
+* [Game/Cookie Clicker](Game/Cookie Clicker.html)
 
 # 勉強会
 
