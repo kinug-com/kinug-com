@@ -9,104 +9,83 @@
 * [Twitter](https://twitter.com/kinug)
 * [SlideShare](http://www.slideshare.net/hironobukinugawa/presentations)
 
-# Linux/Unix/GNU
+# 3DCG
 
-* [Tips/Linux/Apache2](Tips/Linux/Apache2.html)
-* [Tips/Linux/Git](Tips/Linux/Git.html)
-* [Tips/Windows/Git](Tips/Windows/Git.html)
-* [Tips/Linux/Gitit](Tips/Linux/Gitit.html)
-* [Tips/Linux/xmonad](Tips/Linux/xmonad.html)
-* [Tips/Linux/Security](Tips/Linux/Security.html)
-* [Tips/Linux/noip](Tips/Linux/noip.html)
+※ここのファイル名は整理
 
-* [Tips/Gnupack](Tips/Gnupack.html)
+* [3DCG/C4D-General](3DCG/C4D-General.html)
+* [3DCG/C4D-Tips](3DCG/C4D-Tips.html)
+* [3DCG/C4D-Development](3DCG/C4D-Development.html)
 
-# Android
-
-* [Tips/Android/Apps](Tips/Android/Apps.html)
-* [Tips/Android/Toshiba AC100](Tips/Android/Toshiba AC100.html)
-* [Tips/Android/Xperia mini E10i](Tips/Android/Xperia mini E10i.html)
-* [Tips/Android/Xperia SX SO-05D](Tips/Android/Xperia SX SO-05D.html)
-* [Tips/Android/Galaxy Note SC-05D](Tips/Android/Galaxy Note SC-05D.html)
-
-* [Tips/Android/Development](Tips/Android/Development.html)
-
-# Windows 10
-
-* [Tips/Windows 10/Tips](Tips/Windows 10/Tips.html)
-* [Tips/Windows 10/Firefox](Tips/Windows 10/Firefox.html)
-
-# Windows 8
-
-* [Tips/Windows 8/Viliv S10 Blade](Tips/Windows 8/Viliv S10 Blade.html)
-* [Tips/Windows 8/Windows 8 usage](Tips/Windows 8/Windows 8 usage.html)
-* [Tips/Windows 8/Apps](Tips/Windows 8/Apps.html)
-* [Tips/Windows 8/Tips](Tips/Windows 8/Tips.html)
-
-# Programming
-
-* [Tips/Programming/Haskell](Tips/Programming/Haskell.html)
-* [Tips/Programming/Python](Tips/Programming/Python.html)
-* [Tips/Programming/Java](Tips/Programming/Java.html)
-* [Tips/Programming/Coq](Tips/Programming/Coq.html)
-* [Tips/Programming/WebExtensions](Tips/Programming/WebExtensions.html)
-
-# CG
-## Cinema 4D
-
-* [Tips/Cinema 4D/General](Tips/Cinema 4D/General.html)
-* [Tips/Cinema 4D/Tips](Tips/Cinema 4D/Tips.html)
-* [Tips/Cinema 4D/Development](Tips/Cinema 4D/Development.html)
-
-SDK ドキュメント
-
-* [CINEMA 4D R13 C.O.F.F.E.E SDK documentation](http://kinug.com/c4d/coffee/)
-* [CINEMA 4D R14 Python SDK documentation ](http://kinug.com/c4d/python/)
-* [CINEMA 4D R14 C++ SDK documentation ](http://kinug.com/c4d/cpp/)
-* [CINEMA 4D R14 Melange V6 Library](http://kinug.com/c4d/melange/)
-
-## Vue
-
-* [Tips/Vue/General](Tips/Vue/General.html)
+* [3DCG/Vue](3DGC/Vue.html)
 
 # Editor
 
-* [Tips/Editor/Emacs](Tips/Editor/Emacs.html)
-* [Tips/Editor/OrgMode](Tips/Editor/OrgMode.html)
-* [Tips/Editor/Wanderlust](Tips/Editor/Wanderlust.html)
+* [Editor/Atom](Editor/Atom.html)
+* [Editor/Sublime Text 2](Editor/Sublime Text 2.html)
 
-* [Tips/Editor/Vim](Tips/Editor/Vim.html)
-* [Tips/Editor/Vimwiki](Tips/Editor/Vimwiki.html)
+* [Editor/Emacs](Editor/Emacs.html)
+* [Editor/OrgMode](Editor/OrgMode.html)
 
-* [Tips/Editor/Sublime Text 2](Tips/Editor/Sublime Text 2.html)
-* [Tips/Editor/Atom](Tips/Editor/Atom.html)
+* [Editor/Vim](Editor/Vim.html)
+* [Editor/Vimwiki](Editor/Vimwiki.html)
 
-# Hardware
+* [Editor/Wanderlust](Editor/Wanderlust.html)
 
-## enchantMOON
+# Programming
 
-* [Tips/enchantMOON/General](Tips/enchantMOON/General.html)
-* [Tips/enchantMOON/Development](Tips/enchantMOON/Development.html)
+* [Programming/Git](Programming/Git.html)
 
-## Amazon Kindle
+* [Programming/Coq](Programming/Coq.html)
+* [Programming/Haskell](Programming/Haskell.html)
+* [Programming/Java](Programming/Java.html)
+* [Programming/Python](Programming/Python.html)
 
-* [Tips/Amazon Kindle/General](Tips/Amazon Kindle/General.html)
+* [Programming/Web](Programming/Web.html)
+* [Programming/WebExtensions](Programming/WebExtensions.html)
 
-## Pebble
+# Server
 
-* [Tips/Pebble/General](Tips/Pebble/General.html)
-
-## Willcom
-
-* [Tips/Willcom/General](Tips/Willcom/General.html)
+* [Server/Apache2](Server/Apache2.html)
+* [Server/noip](Server/noip.html)
+* [Server/Gitit](Server/Gitit.html)
+* [Server/Security](Server/Security.html)
 
 # Services
 
-* [Tips/Services/Line](Tips/Services/Line.html)
+* [Services/GitHub](Services/GitHub.html)
+* [Services/Line](Services/Line.html)
 
-# Web
+# Hardware
 
-* [Tips/Web/Misc](Tips/Web/Misc.html)
+* [Hardware/Android/Galaxy Note SC-05D](Hardware/Galaxy Note SC-05D.html)
+* [Hardware/Android/Toshiba AC100](Hardware/Toshiba AC100.html)
+* [Hardware/Android/Xperia mini E10i](Hardware/Xperia mini E10i.html)
+* [Hardware/Android/Xperia SX SO-05D](Hardware/Xperia SX SO-05D.html)
+
+* [Hardware/Amazon Kindle/General](Hardware/Amazon Kindle.html)
+* [Hardware/Pebble/General](Hardware/Pebble.html)
+
+# Android
+
+* [Android/Apps](Android/Apps.html)
+* [Android/Development](Android/Development.html)
+
+# Linux
+
+* [Linux/xmonad](Linux/xmonad.html)
+
+# Windows
+
+* [Windows/Apps](Tips/Windows 8/Apps.html)
+* [Windows/Firefox](Tips/Windows 10/Firefox.html)
+* [Windows/Gnupack](Tips/Gnupack.html)
+* [Windows/Tips](Tips/Windows 8/Tips.html)
+* [Windows/Windows 8 usage](Tips/Windows 8/Windows 8 usage.html)
+
+# Game
+
+* [Game/Cookie Clicker](Tips/Cookie Clicker.html)
 
 # 勉強会
 
@@ -115,8 +94,3 @@ SDK ドキュメント
 * [7-Eliminating Amortization](http://www.slideshare.net/hironobukinugawa/7-eliminating-amortization)
 
 * [Study/Category-Seminar/Category-Seminar](Study/Category-Seminar/Category-Seminar.html)
-
-# その他
-
-* [Tips/Cookie Clicker](Tips/Cookie Clicker.html)
-* [被災地情報](被災地情報.html)
