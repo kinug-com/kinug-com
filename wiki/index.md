@@ -53,6 +53,7 @@
 # Services
 
 * [Services/GitHub](Services/GitHub.html)
+* [Services/DNS](Services/DNS.html)
 * [Services/Line](Services/Line.html)
 
 # Hardware
