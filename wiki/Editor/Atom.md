@@ -16,21 +16,6 @@ Atom はパッケージによって機能拡張できるのが売り。以下の
 - [プロキシ認証のある Windows で Atom を使う — a wandering wolf](http://gab-km.bitbucket.org/blog/html/2014/10/23/using_atom_in_windows_with_proxy_authentication.html) - こちらを採用
 
 
-# パッケージが上手くインストールできない場合
-
-Atom でパッケージをインストールしようとして、以下のようなエラーが出ることがある。
-
-    Compiler tools not found
-    Packages that depend on modules that contain C/C++ code will fail to install.
-    Read here for instructions on installing Python and Visual Studio.
-    Run apm install --check after installing to test compiling a native module.
-
-以下のページによると、Atom のバージョンによってこのようなエラーが誤って出ることがあるらしい。
-
-- [Windows版Atom 0.187.0（付近）＋Proxy環境でPackageの](http://qiita.com/kisato/items/77671f382b22b93c60d0)
-
-解決策は、エラーの出ないバージョンの Atom を使用してパッケージをインストールすること。今回は、0.174.0 を用いてインストールを試みたところ成功した。パッケージの保存される場所は共通なので、そのまま新しいバージョンの Atom でインストールしたパッケージが使用できる。
-
 # フォントの変更
 
 設定画面から、普通にフォントを設定できる。
