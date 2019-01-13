@@ -40,6 +40,8 @@
 * [Programming/Java](Programming/Java.html)
 * [Programming/Python](Programming/Python.html)
 
+* [Programming/Vue.js](Vue.js.html)
+
 * [Programming/Web](Programming/Web.html)
 * [Programming/WebExtensions](Programming/WebExtensions.html)
 
