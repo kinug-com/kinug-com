@@ -51,6 +51,3 @@ Atom は何も設定しなくても Markdown のプレビューがリアルタ�
 
 - Ctrl+] / Ctrl+[ ブロックのインデント/アンインデント
 - Ctrl+Shift+m Markdown プレビューを開く
-
-
-
