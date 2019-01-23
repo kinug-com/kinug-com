@@ -4,7 +4,11 @@ Ableton Live で音出しするときのやり方について。
 
 「環境設定」→「Launch」→「デフォルトラウンチクオンタイゼーション」を「None」に設定する。
 
+「環境設定」→「Warp/Fades」→「ロングサンプルの自動ワープ」も「オフ」に設定
+
 - [環境設定について。 - ayato sound create](http://ayatosound.blogspot.com/2017/10/blog-post_27.html)
+- [9.2 サンプルをタイムワープする](https://www.ableton.com/ja/manual/audio-clips-tempo-and-warping/#9-2-サンプルをタイムワープする)
+
 
 # データの準備
 
