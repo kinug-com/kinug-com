@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker
 title: kinug/wiki
+description: personal notes
 plugins:
   - jekyll-filename
