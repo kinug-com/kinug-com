@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
-description: kinug wiki
+title: kinug/wiki
 plugins:
   - jekyll-filename
