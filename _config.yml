@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
-title: kinug wiki
+title: kinug/wiki
 plugins:
   - jekyll-filename
