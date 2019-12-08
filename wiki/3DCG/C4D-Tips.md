@@ -4,7 +4,7 @@ Ciname 4D は、レンダリング設定の保存ファイル名にトークン�
 
 トークンを使用することにより、プロジェクト名、カメラ名、テイク名などを、個別に記述することなく保存パスに加えることが出来る。
 
-ｰ [Use Tokens and Never Name Your Render Files Again | Greyscalegorilla](https://greyscalegorilla.com/tutorials/tokens-name-renders-c4d/?utm_source=Greyscalegorilla+Newsletter&utm_campaign=65a7e4f1c7-EMAIL_CAMPAIGN_WEEKLY_VOICE_COPY_01&utm_medium=email&utm_term=0_025cbe1576-65a7e4f1c7-390849865&mc_cid=65a7e4f1c7&mc_eid=44d1abab1a)
+ｰ [Use Tokens and Never Name Your Render Files Again - Greyscalegorilla](https://greyscalegorilla.com/tutorials/tokens-name-renders-c4d/?utm_source=Greyscalegorilla+Newsletter&utm_campaign=65a7e4f1c7-EMAIL_CAMPAIGN_WEEKLY_VOICE_COPY_01&utm_medium=email&utm_term=0_025cbe1576-65a7e4f1c7-390849865&mc_cid=65a7e4f1c7&mc_eid=44d1abab1a)
 
 # クローナの個々のオブジェクトにマテリアルを固定する
 
@@ -24,7 +24,7 @@ MoGraph エフェクタはエフェクタの種類によってパラメータの
 
 マルチシェーダは、複数のテクスチャをパラメータ（マテリアルのカラー等）によって切り換えて適用できるので、これを時間軸で変化させることで動画テクスチャを実現できる。マテリアルのカラーやウェイトを Mograph エフェクタで変化させると、マルチシェーダによってテクスチャが変化するので、この性質を利用する。
 
-- [Cinema 4D Random Offset Animated Textures Using Mograph Multishader](https://vimeo.com/21302433) 
+- [Cinema 4D Random Offset Animated Textures Using Mograph Multishader](https://vimeo.com/21302433)
   - マルチシェーダで各フレームを分離、動画を Time Effector で再生する。
   - さらに、Random Effector で再生スピードをランダムに変更する。
 
