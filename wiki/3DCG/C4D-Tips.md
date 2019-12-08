@@ -1,10 +1,12 @@
+# C4D-Tips
+
 # Token
 
 Ciname 4D は、レンダリング設定の保存ファイル名にトークンと呼ばれる変数を使用できる。
 
 トークンを使用することにより、プロジェクト名、カメラ名、テイク名などを、個別に記述することなく保存パスに加えることが出来る。
 
-ｰ [Use Tokens and Never Name Your Render Files Again - Greyscalegorilla](https://greyscalegorilla.com/tutorials/tokens-name-renders-c4d/?utm_source=Greyscalegorilla+Newsletter&utm_campaign=65a7e4f1c7-EMAIL_CAMPAIGN_WEEKLY_VOICE_COPY_01&utm_medium=email&utm_term=0_025cbe1576-65a7e4f1c7-390849865&mc_cid=65a7e4f1c7&mc_eid=44d1abab1a)
+ｰ [Use Tokens and Never Name Your Render Files Again - Greyscalegorilla](https://greyscalegorilla.com/tutorials/tokens-name-renders-c4d/)
 
 # クローナの個々のオブジェクトにマテリアルを固定する
 
