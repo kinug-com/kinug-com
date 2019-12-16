@@ -8,7 +8,7 @@
 - [レンダリング時間の短縮Tips | MAXON japan](https://www.maxonjapan.jp/archives/2906)
 
 
-# Token
+# レンダリング出力のパスを自動化する（Token）
 
 Ciname 4D は、レンダリング設定の保存ファイル名にトークンと呼ばれる変数を使用できる。
 
