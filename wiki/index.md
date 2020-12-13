@@ -23,6 +23,10 @@
 
 * [Audio/Ableton Live](Audio/Ableton Live.html)
 
+# VJ
+
+* [VJ/Resolume](VJ/Resolume.html)
+
 # Editor
 
 * [Editor/Atom](Editor/Atom.html)
