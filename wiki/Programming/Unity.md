@@ -24,6 +24,8 @@ Unity に関するメモ
 
 - [Fingers - Touch Gestures for Unity](https://assetstore.unity.com/packages/tools/input-management/fingers-touch-gestures-for-unity-41076)
 
+# Unity の環境設定
 
+- [Unity 2019.3 でJDK、NDK、SDKが無いエラーが出る場合の対応方法](https://qiita.com/matchyy/items/6bf39780d4e993247697)
 
 
