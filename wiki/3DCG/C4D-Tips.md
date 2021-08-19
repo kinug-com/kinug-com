@@ -14,7 +14,8 @@ Ciname 4D は、レンダリング設定の保存ファイル名にトークン�
 
 トークンを使用することにより、プロジェクト名、カメラ名、テイク名などを、個別に記述することなく保存パスに加えることが出来る。
 
-ｰ [Use Tokens and Never Name Your Render Files Again - Greyscalegorilla](https://greyscalegorilla.com/tutorials/tokens-name-renders-c4d/)
+- [HOW TO TAKE CONTROL OF NAMING IN C4D BY USING TOKENS - LesterBanks](https://lesterbanks.com/2018/11/naming-c4d-using-tokens/)
+- [Cinema 4D Tokens - Never Name a Render Again - Greyscalegorilla](https://greyscalegorilla.com/cinema-4d-tokens-never-name-a-render-again/)
 
 # クローナの個々のオブジェクトにマテリアルを固定する
 
@@ -50,5 +51,9 @@ MoGraph エフェクタはエフェクタの種類によってパラメータの
   - 簡易エフェクタのカラーをキーフレームを打って変更 ＋ マルチシェーダの「カラーの明るさ」を設定　→　動画が再生できる
   - 上記に加えて、カラーに対してランダムエフェクタを適用する
 
+# License Manager の JavaScript エラー「未定義または NULL 参照のプロパティ 'map' は取得できません」の回避方法
+
+このエラーは、他のマシンですでにライセンスがアクティベートされているときに発生するらしい。
+他のマシンの Cinema 4D 上でライセンスを開放するか、MyMaxon からライセンスを開放すると、エラーが解消する。
 
 
