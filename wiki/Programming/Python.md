@@ -2,6 +2,10 @@ Python に関するメモ
 
 # 開発環境
 
+## 仮想環境
+
+- [venv: Python 仮想環境管理](https://qiita.com/fiftystorm36/items/b2fd47cf32c7694adc2e) - プロジェクトごとにパッケージ構成を管理する方法
+
 ## PyScripter
 
 - [pyscripter - An open-source Python Integrated Development Environment (IDE) - Google Project Hosting](https://code.google.com/p/pyscripter/)
