@@ -9,6 +9,10 @@
 * [Twitter](https://twitter.com/kinug)
 * [SlideShare](http://www.slideshare.net/hironobukinugawa/presentations)
 
+# AI
+
+* [AI/AI-LLMs](AI/AI-LLMs.html)
+
 # 3DCG
 
 ※ここのファイル名は整理
