@@ -11,7 +11,7 @@
 
 # AI
 
-* [AI/AI-LLMs](AI/AI-LLMs.html)
+* [AI/LLMs](AI/LLMs.html)
 
 # 3DCG
 
