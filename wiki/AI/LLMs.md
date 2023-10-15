@@ -6,6 +6,6 @@ LLM に関することメモ
 
 # LLM Models
 
-- [Hugging Face](https://huggingface.co/)
+- [Hugging Face](https://huggingface.co/) - 様々なLLMモデルが公開されている
 
 
