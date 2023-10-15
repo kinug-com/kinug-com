@@ -23,12 +23,9 @@
 
 * [3DCG/Vue](3DCG/Vue.html)
 
-# Audio
+# AV-Operation
 
 * [Audio/Ableton Live](Audio/Ableton Live.html)
-
-# VJ
-
 * [VJ/Resolume](VJ/Resolume.html)
 
 # Editor
