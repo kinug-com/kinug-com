@@ -6,6 +6,11 @@ toc: yes
 
 Git の使い方メモ
 
+# Git/GitHub の設定関連
+
+- [Git/GitHubのメールアドレス周りについて調べた](https://kamatimaru.hatenablog.com/entry/2021/03/27/175644)
+
+
 # コミットメッセージの書き方
 
 - [Gitのコミットメッセージの書き方 - Qiita](https://qiita.com/itosho/items/9565c6ad2ffc24c09364) - 参考例
