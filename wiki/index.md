@@ -73,6 +73,7 @@
 
 # Hardware
 
+* [Hardware/Keyboard](Hardware/Keyboard.html)
 * [Hardware/Android/Galaxy Note SC-05D](Hardware/Galaxy Note SC-05D.html)
 * [Hardware/Android/Toshiba AC100](Hardware/Toshiba AC100.html)
 * [Hardware/Android/Xperia mini E10i](Hardware/Xperia mini E10i.html)
