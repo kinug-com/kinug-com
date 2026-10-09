@@ -1,5 +1,28 @@
-theme: jekyll-theme-tactile
 title: kinug/wiki
-description: personal notes
-show_downloads: false
+description: "@kinug の作業記録"
+lang: ja
+url: https://kinug.com
+timezone: Asia/Tokyo
+permalink: /wiki/:year/:title/
 google_analytics: G-MWK3GZW6CT
+
+# 5 年以上前の記事の先頭に「当時の記録」の注記を出す
+old_post_years: 5
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+feed:
+  path: wiki/feed.xml
+
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+  - scope: { path: "" }
+    values: { layout: default }
+
+exclude:
+  - README.md

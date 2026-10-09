@@ -1,0 +1,16 @@
+---
+title: "Android アプリ開発の情報"
+date: 2013-01-01
+date_label: "2013年頃（推定）"
+description: "PhoneGap のスライドへのリンク。"
+tags: [android, programming]
+redirect_from:
+  - "/wiki/Android/Development.html"
+  - "/wiki/Tips/Android/Development/"
+---
+
+Android でのアプリ開発に関する情報をメモ
+
+## PhoneGap 関係
+
+- <http://www.slideshare.net/KatsumiOny/phone-gap-24958753>

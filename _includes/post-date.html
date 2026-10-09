@@ -1,0 +1,2 @@
+{%- assign p = include.post -%}
+{%- if p.date_label -%}{{ p.date_label }}{%- else -%}{{ p.date | date: "%Y年%-m月%-d日" }}{%- endif -%}

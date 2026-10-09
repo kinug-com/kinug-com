@@ -1,0 +1,18 @@
+# タグの表示名。記事の tags にはキーを書く
+ai: AI
+android: Android
+av: 音響・映像
+3dcg: 3DCG
+cinema4d: Cinema 4D
+editor: エディタ
+emacs: Emacs
+vim: Vim
+game: ゲーム
+git: Git
+hardware: ハードウェア
+linux: Linux
+programming: プログラミング
+server: サーバー
+study: 勉強会
+web: Web
+windows: Windows
