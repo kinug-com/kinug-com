@@ -1,7 +1,7 @@
 ---
 title: "enchantMOON 関連のリンク"
 date: 2013-01-01
-date_label: "2013年頃（推定）"
+date_label: "2013年頃"
 description: "公式情報、販売、書籍、レビュー、分解記事、アクセサリ。"
 field: hardware
 tags: []

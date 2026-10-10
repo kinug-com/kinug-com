@@ -1,7 +1,7 @@
 ---
 title: "Cinema 4D のスクリプティングと開発の情報"
 date: 2011-01-01
-date_label: "2011年頃（推定）"
+date_label: "2011年頃"
 description: "SDK、情報サイト、チュートリアル、デバッグ、Cinema 4D Lite へのプラグイン導入。"
 field: video
 tags: [3dcg, cinema4d]

@@ -1,7 +1,7 @@
 ---
 title: "サーバーの iptables と logwatch"
 date: 2010-01-01
-date_label: "2010年頃（推定）"
+date_label: "2010年頃"
 description: "Ubuntu での設定記事のリンク。"
 field: software
 tags: [server, linux]

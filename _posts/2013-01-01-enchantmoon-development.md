@@ -1,7 +1,7 @@
 ---
 title: "enchantMOON での開発情報"
 date: 2013-01-01
-date_label: "2013年頃（推定）"
+date_label: "2013年頃"
 description: "開発者カンファレンス、MOONBlock SDK、開発者のブログ。"
 field: programming
 tags: []

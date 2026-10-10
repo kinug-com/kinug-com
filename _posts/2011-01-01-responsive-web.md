@@ -1,7 +1,7 @@
 ---
 title: "レスポンシブ Web 制作のリンク集"
 date: 2011-01-01
-date_label: "2011年頃（推定）"
+date_label: "2011年頃"
 description: "基礎知識、jQuery プラグイン、YouTube の埋め込み、ツール、テスト。"
 field: programming
 tags: [web]

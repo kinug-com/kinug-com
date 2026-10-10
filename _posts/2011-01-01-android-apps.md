@@ -1,7 +1,7 @@
 ---
 title: "Android で使っているアプリ"
 date: 2011-01-01
-date_label: "2011〜2015年頃（推定）"
+date_label: "2011〜2015年頃"
 description: "ランチャー、システム、通信、PIM のアプリ一覧。"
 field: software
 tags: [android]
