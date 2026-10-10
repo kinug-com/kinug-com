@@ -1,6 +1,8 @@
 ---
 title: このサイトについて
-permalink: /wiki/about/
+permalink: /notes/about/
+redirect_from:
+  - "/wiki/about/"
 ---
 
 # このサイトについて
@@ -20,9 +22,10 @@ permalink: /wiki/about/
 
 ## 探し方
 
-- [記事一覧](/wiki/)は新しい順です。
-- [年別](/wiki/years/)で、その頃に何をしていたかを辿れます。
-- [タグ](/wiki/tags/)で、話題ごとにまとめて見られます。
+- [トップ](/notes/)には、分野ごとに最近の記事を並べています。
+- [記事一覧](/notes/all/)は新しい順です。分野で絞り込めます。
+- [年別](/notes/years/)で、その頃に何をしていたかを辿れます。
+- [タグ](/notes/tags/)で、話題ごとにまとめて見られます。
 
 ## ほかの場所
 

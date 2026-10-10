@@ -3,10 +3,12 @@ title: "圏論勉強会のメモ"
 date: 2013-05-01
 date_label: "2013年5月"
 description: "Awodey の Category Theory を読む勉強会、第 1 回から第 6 回の記録。"
+field: programming
 tags: [study]
 redirect_from:
   - "/wiki/Study/Category-Seminar/Category-Seminar.html/"
   - "/wiki/Study/Category-Seminar/Category-Seminar/"
+  - "/wiki/2013/category-theory-seminar/"
 ---
 
 ２０１３年５月～

@@ -1,0 +1,29 @@
+---
+title: kinug/notes
+redirect_from:
+  - "/wiki/"
+---
+<h1 class="page-heading">kinug/notes</h1>
+<p class="lead">@kinug の作業記録です。分野ごとに最近の記事を 3 本ずつ並べています。</p>
+
+{%- for f in site.data.fields %}
+{%- assign fposts = site.posts | where: "field", f.key %}
+{%- if fposts.size > 0 %}
+<section class="field-summary field-summary-{{ f.key }}">
+  <header class="field-summary-head">
+    <h2><span class="field field-{{ f.key }}">{{ f.label }}</span></h2>
+    <p>{{ fposts.size }}本・最新 {{ fposts.first.date | date: "%Y" }}年</p>
+  </header>
+  <ul class="summary-list">
+    {%- for post in fposts limit: 3 %}
+    <li>
+      <span class="post-date">{% include post-date.html post=post %}</span>
+      <a class="summary-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {%- if post.description %}<span class="summary-desc">{{ post.description }}</span>{% endif %}
+    </li>
+    {%- endfor %}
+  </ul>
+  <p class="field-summary-more"><a href="{{ '/notes/all/' | relative_url }}#{{ f.key }}">{{ f.label }}の記事をすべて見る（{{ fposts.size }}本）→</a></p>
+</section>
+{%- endif %}
+{%- endfor %}

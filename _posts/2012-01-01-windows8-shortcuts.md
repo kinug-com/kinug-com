@@ -3,10 +3,12 @@ title: "Windows 8 のショートカットキー"
 date: 2012-01-01
 date_label: "2012年頃（推定）"
 description: "Windows キーとの組み合わせの一覧。"
+field: software
 tags: [windows]
 redirect_from:
   - "/wiki/Windows/Windows 8 usage.html"
   - "/wiki/Tips/Windows 8/Windows 8 usage/"
+  - "/wiki/2012/windows8-shortcuts/"
 ---
 
 Windows 8 の使い方 Tips

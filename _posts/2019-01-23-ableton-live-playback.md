@@ -3,9 +3,11 @@ title: "Ableton Live で音出しをする手順"
 date: 2019-01-23
 updated_label: "2019年1月29日"
 description: "事前の環境設定、データの準備、再生時の操作、MIDI コントローラアプリ。"
-tags: [av]
+field: stage
+tags: []
 redirect_from:
   - "/wiki/AV-Operation/Ableton Live.html"
+  - "/wiki/2019/ableton-live-playback/"
 ---
 
 Ableton Live で音出しするときのやり方について。

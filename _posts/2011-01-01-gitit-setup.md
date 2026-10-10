@@ -3,10 +3,12 @@ title: "Gitit をセットアップした"
 date: 2011-01-01
 date_label: "2011年頃（推定）"
 description: "インストール、起動、Apache 連携、jsMath、プラグイン。"
+field: software
 tags: [server, git]
 redirect_from:
   - "/wiki/Server/Gitit.html"
   - "/wiki/Tips/Linux/Gitit/"
+  - "/wiki/2011/gitit-setup/"
 ---
 
 Gitit をセットアップしたときのメモ

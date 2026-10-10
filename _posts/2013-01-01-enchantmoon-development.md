@@ -3,10 +3,12 @@ title: "enchantMOON での開発情報"
 date: 2013-01-01
 date_label: "2013年頃（推定）"
 description: "開発者カンファレンス、MOONBlock SDK、開発者のブログ。"
-tags: [hardware, programming]
+field: programming
+tags: []
 restored: true
 redirect_from:
   - "/wiki/Tips/enchantMOON/Development/"
+  - "/wiki/2013/enchantmoon-development/"
 ---
 
 enchantMOON での開発に関するメモ。

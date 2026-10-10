@@ -2,9 +2,11 @@
 title: "DNS の NS レコードの役割"
 date: 2019-01-13
 description: "委任の仕組みを解説した資料。"
+field: software
 tags: [server]
 redirect_from:
   - "/wiki/Services/DNS.html"
+  - "/wiki/2019/dns-ns-record/"
 ---
 
 ## NS レコードについて

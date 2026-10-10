@@ -3,10 +3,12 @@ title: "Android で使っているアプリ"
 date: 2011-01-01
 date_label: "2011〜2015年頃（推定）"
 description: "ランチャー、システム、通信、PIM のアプリ一覧。"
+field: software
 tags: [android]
 redirect_from:
   - "/wiki/Android/Apps.html"
   - "/wiki/Tips/Android/Apps/"
+  - "/wiki/2011/android-apps/"
 ---
 
 Android で使っているアプリをメモっておく。

@@ -3,9 +3,11 @@ title: "QLab の設定メモ"
 date: 2023-10-16
 updated_label: "2024年9月1日"
 description: "Workspace と Cue の設定、Video Cue の出力の注意点、QLab Remote。"
-tags: [av]
+field: stage
+tags: []
 redirect_from:
   - "/wiki/AV-Operation/QLab.html"
+  - "/wiki/2023/qlab-settings/"
 ---
 
 ## Workspace の設定項目

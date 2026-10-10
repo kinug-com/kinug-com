@@ -3,10 +3,12 @@ title: "Firefox アドオンを WebExtensions で作る"
 date: 2017-01-01
 date_label: "2017年頃（推定）"
 description: "基本情報、一時的な読み込み、web-ext と AMO での署名。"
-tags: [web, programming]
+field: programming
+tags: [web]
 redirect_from:
   - "/wiki/Programming/WebExtensions.html"
   - "/wiki/Tips/Programming/WebExtensions/"
+  - "/wiki/2017/firefox-webextensions/"
 ---
 
 ## 概要

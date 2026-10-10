@@ -3,10 +3,12 @@ title: "サーバーの iptables と logwatch"
 date: 2010-01-01
 date_label: "2010年頃（推定）"
 description: "Ubuntu での設定記事のリンク。"
+field: software
 tags: [server, linux]
 redirect_from:
   - "/wiki/Server/Security.html"
   - "/wiki/Tips/Linux/Security/"
+  - "/wiki/2010/server-security/"
 ---
 
 ## iptables

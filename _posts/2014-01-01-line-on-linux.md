@@ -3,10 +3,12 @@ title: "LINE を Ubuntu や Pidgin で使う"
 date: 2014-01-01
 date_label: "2014〜2018年頃（推定）"
 description: "Ubuntu へのインストールと、Pidgin 用のプラグイン。"
+field: software
 tags: [linux]
 redirect_from:
   - "/wiki/Services/Line.html"
   - "/wiki/Tips/Services/Line/"
+  - "/wiki/2014/line-on-linux/"
 ---
 
 Naver Line についてのあれこれ

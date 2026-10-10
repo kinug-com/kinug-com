@@ -1,6 +1,8 @@
 ---
 title: 年別
-permalink: /wiki/years/
+permalink: /notes/years/
+redirect_from:
+  - "/wiki/years/"
 ---
 <h1 class="page-heading">年別</h1>
 {%- assign years = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
@@ -12,7 +14,7 @@ permalink: /wiki/years/
   <h2 id="y{{ y.name }}">{{ y.name }}年</h2>
   <ul class="compact-list">
     {%- for post in y.items %}
-    <li><span class="post-date">{% include post-date.html post=post %}</span> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <li><span class="post-date">{% include post-date.html post=post %}</span> {% include field-label.html field=post.field %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
     {%- endfor %}
   </ul>
 </section>

@@ -3,10 +3,12 @@ title: "Sublime Text 2 の設定メモ"
 date: 2013-01-01
 date_label: "2013年頃（推定）"
 description: "プロキシ越しのパッケージ導入、フォント、Markdown のプレビューとハイライト。"
+field: software
 tags: [editor]
 redirect_from:
   - "/wiki/Editor/Sublime Text 2.html"
   - "/wiki/Tips/Editor/Sublime Text 2/"
+  - "/wiki/2013/sublime-text-2/"
 ---
 
 ## 環境設定

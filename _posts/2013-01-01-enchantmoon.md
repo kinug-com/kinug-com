@@ -3,10 +3,12 @@ title: "enchantMOON 関連のリンク"
 date: 2013-01-01
 date_label: "2013年頃（推定）"
 description: "公式情報、販売、書籍、レビュー、分解記事、アクセサリ。"
-tags: [hardware]
+field: hardware
+tags: []
 restored: true
 redirect_from:
   - "/wiki/Tips/enchantMOON/General/"
+  - "/wiki/2013/enchantmoon/"
 ---
 
 enchantMOON 関係のあれこれをメモ

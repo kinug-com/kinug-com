@@ -4,10 +4,12 @@ date: 2010-01-01
 date_label: "2010年頃（推定）"
 updated_label: "2015年頃（推定）"
 description: "シリアルコンソールを作り、root 権限を取って再起動ループから抜けた記録。"
-tags: [hardware]
+field: hardware
+tags: []
 redirect_from:
   - "/wiki/Hardware/Amazon Kindle.html"
   - "/wiki/Tips/Amazon Kindle/General/"
+  - "/wiki/2010/kindle-dx-unbrick/"
 ---
 
 ## Kindle DX (2nd Gen)

@@ -1,0 +1,47 @@
+---
+title: 記事一覧
+permalink: /notes/all/
+redirect_from:
+  - "/wiki/all/"
+---
+<h1 class="page-heading">記事一覧</h1>
+<p class="lead">新しい順に {{ site.posts.size }} 本。日付に「推定」とあるものは、2019年以前の記事で正確な日付が残っていないものです。</p>
+
+<nav class="field-filter" aria-label="分野で絞り込む">
+  <a href="#" class="field-all" data-filter="">すべて<small>{{ site.posts.size }}</small></a>
+  {%- for f in site.data.fields %}
+  {%- assign fposts = site.posts | where: "field", f.key %}
+  {%- if fposts.size > 0 %}
+  <a href="#{{ f.key }}" class="field field-{{ f.key }}" data-filter="{{ f.key }}">{{ f.label }}<small>{{ fposts.size }}</small></a>
+  {%- endif %}
+  {%- endfor %}
+</nav>
+
+<ul class="post-list">
+  {%- for post in site.posts %}
+  {% include post-item.html post=post %}
+  {%- endfor %}
+</ul>
+
+<script>
+(function () {
+  var items = document.querySelectorAll('.post-item');
+  var links = document.querySelectorAll('.field-filter a');
+  function apply() {
+    var key = location.hash.replace('#', '');
+    for (var i = 0; i < items.length; i++) {
+      items[i].hidden = key !== '' && items[i].getAttribute('data-field') !== key;
+    }
+    for (var j = 0; j < links.length; j++) {
+      links[j].classList.toggle('is-active', links[j].getAttribute('data-filter') === key);
+    }
+  }
+  document.querySelector('.field-all').addEventListener('click', function (e) {
+    e.preventDefault();
+    history.replaceState(null, '', location.pathname);
+    apply();
+  });
+  window.addEventListener('hashchange', apply);
+  apply();
+})();
+</script>

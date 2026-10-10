@@ -2,9 +2,11 @@
 title: "Vue.js の基本"
 date: 2019-01-13
 description: "読み込み、テンプレート、データバインディング、主なディレクティブ。"
-tags: [programming, web]
+field: programming
+tags: [web]
 redirect_from:
   - "/wiki/Programming/Vue.js.html"
+  - "/wiki/2019/vuejs-basics/"
 ---
 
 ## vue.js の基本
