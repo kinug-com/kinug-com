@@ -8,6 +8,7 @@ tags: [android]
 redirect_from:
   - "/wiki/Hardware/Galaxy Note SC-05D.html"
   - "/wiki/Tips/Android/Galaxy Note SC-05D/"
+  - "/wiki/2013/galaxy-note-sc-05d-root/"
 ---
 
 ## Root 化

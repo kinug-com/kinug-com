@@ -6,6 +6,7 @@ field: software
 tags: [server]
 redirect_from:
   - "/wiki/Services/DNS.html"
+  - "/wiki/2019/dns-ns-record/"
 ---
 
 ## NS レコードについて

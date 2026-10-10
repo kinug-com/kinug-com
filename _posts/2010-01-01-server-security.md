@@ -8,6 +8,7 @@ tags: [server, linux]
 redirect_from:
   - "/wiki/Server/Security.html"
   - "/wiki/Tips/Linux/Security/"
+  - "/wiki/2010/server-security/"
 ---
 
 ## iptables

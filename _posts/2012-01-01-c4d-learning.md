@@ -8,6 +8,7 @@ tags: [3dcg, cinema4d]
 redirect_from:
   - "/wiki/3DCG/C4D-General.html"
   - "/wiki/Tips/Cinema 4D/General/"
+  - "/wiki/2012/c4d-learning/"
 ---
 
 ## 入門

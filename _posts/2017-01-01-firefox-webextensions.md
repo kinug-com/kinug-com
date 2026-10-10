@@ -8,6 +8,7 @@ tags: [web]
 redirect_from:
   - "/wiki/Programming/WebExtensions.html"
   - "/wiki/Tips/Programming/WebExtensions/"
+  - "/wiki/2017/firefox-webextensions/"
 ---
 
 ## 概要

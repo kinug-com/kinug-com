@@ -9,6 +9,7 @@ tags: [android]
 redirect_from:
   - "/wiki/Hardware/Xperia SX SO-05D.html"
   - "/wiki/Tips/Android/Xperia SX SO-05D/"
+  - "/wiki/2012/xperia-sx-so-05d/"
 ---
 
 ## Root 化

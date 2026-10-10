@@ -8,6 +8,7 @@ tags: [windows]
 redirect_from:
   - "/wiki/Windows/Firefox.html"
   - "/wiki/Tips/Windows 10/Firefox/"
+  - "/wiki/2017/firefox-multirow-tabs/"
 ---
 
 Windows 版 Firefox に関するメモ

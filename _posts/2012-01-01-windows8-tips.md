@@ -8,6 +8,7 @@ tags: [windows]
 redirect_from:
   - "/wiki/Windows/Tips.html"
   - "/wiki/Tips/Windows 8/Tips/"
+  - "/wiki/2012/windows8-tips/"
 ---
 
 ## ネットワークドライブのプログラムを実行するときに、セキュリティの警告を出さなくする

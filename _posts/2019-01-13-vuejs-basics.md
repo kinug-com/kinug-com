@@ -6,6 +6,7 @@ field: programming
 tags: [web]
 redirect_from:
   - "/wiki/Programming/Vue.js.html"
+  - "/wiki/2019/vuejs-basics/"
 ---
 
 ## vue.js の基本

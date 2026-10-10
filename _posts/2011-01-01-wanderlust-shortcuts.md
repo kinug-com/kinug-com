@@ -8,6 +8,7 @@ tags: [editor, emacs]
 redirect_from:
   - "/wiki/Editor/Wanderlust.html"
   - "/wiki/Tips/Editor/Wanderlust/"
+  - "/wiki/2011/wanderlust-shortcuts/"
 ---
 
 Wanderlust のよく使うショートカットをメモっておく。.

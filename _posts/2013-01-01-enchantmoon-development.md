@@ -8,6 +8,7 @@ tags: []
 restored: true
 redirect_from:
   - "/wiki/Tips/enchantMOON/Development/"
+  - "/wiki/2013/enchantmoon-development/"
 ---
 
 enchantMOON での開発に関するメモ。

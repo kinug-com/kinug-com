@@ -9,6 +9,7 @@ tags: []
 redirect_from:
   - "/wiki/Hardware/Amazon Kindle.html"
   - "/wiki/Tips/Amazon Kindle/General/"
+  - "/wiki/2010/kindle-dx-unbrick/"
 ---
 
 ## Kindle DX (2nd Gen)

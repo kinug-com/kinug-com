@@ -8,6 +8,7 @@ tags: [android]
 redirect_from:
   - "/wiki/Hardware/Xperia mini E10i.html"
   - "/wiki/Tips/Android/Xperia mini E10i/"
+  - "/wiki/2011/xperia-mini-e10i/"
 ---
 
 Xperia mini E10i カスタマイズに関する情報

@@ -7,6 +7,7 @@ field: stage
 tags: []
 redirect_from:
   - "/wiki/AV-Operation/QLab.html"
+  - "/wiki/2023/qlab-settings/"
 ---
 
 ## Workspace の設定項目

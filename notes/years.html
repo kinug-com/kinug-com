@@ -1,6 +1,8 @@
 ---
 title: 年別
-permalink: /wiki/years/
+permalink: /notes/years/
+redirect_from:
+  - "/wiki/years/"
 ---
 <h1 class="page-heading">年別</h1>
 {%- assign years = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}

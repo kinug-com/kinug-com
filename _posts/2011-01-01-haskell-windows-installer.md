@@ -8,6 +8,7 @@ tags: []
 redirect_from:
   - "/wiki/Programming/Haskell.html"
   - "/wiki/Tips/Programming/Haskell/"
+  - "/wiki/2011/haskell-windows-installer/"
 ---
 
 Haskell に関するメモ

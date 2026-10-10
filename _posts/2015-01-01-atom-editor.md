@@ -8,6 +8,7 @@ tags: [editor]
 redirect_from:
   - "/wiki/Editor/Atom.html"
   - "/wiki/Tips/Editor/Atom/"
+  - "/wiki/2015/atom-editor/"
 ---
 
 Atom を使い始めてみたので、メモ

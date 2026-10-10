@@ -1,9 +1,9 @@
-title: kinug/wiki
+title: kinug/notes
 description: "@kinug の作業記録"
 lang: ja
 url: https://kinug.com
 timezone: Asia/Tokyo
-permalink: /wiki/:year/:title/
+permalink: /notes/:year/:title/
 google_analytics: G-MWK3GZW6CT
 
 # 5 年以上前の記事の先頭に「当時の記録」の注記を出す
@@ -16,7 +16,7 @@ plugins:
   - jekyll-feed
 
 feed:
-  path: wiki/feed.xml
+  path: notes/feed.xml
 
 defaults:
   - scope: { path: "", type: posts }

@@ -8,6 +8,7 @@ tags: []
 restored: true
 redirect_from:
   - "/wiki/Tips/enchantMOON/General/"
+  - "/wiki/2013/enchantmoon/"
 ---
 
 enchantMOON 関係のあれこれをメモ

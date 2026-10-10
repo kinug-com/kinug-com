@@ -8,6 +8,7 @@ tags: [windows]
 redirect_from:
   - "/wiki/Windows/Apps.html"
   - "/wiki/Tips/Windows 8/Apps/"
+  - "/wiki/2012/windows8-apps/"
 ---
 
 Windows 8 のアプリで良さそうなものをメモ

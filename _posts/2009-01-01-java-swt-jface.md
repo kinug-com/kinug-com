@@ -8,6 +8,7 @@ tags: []
 redirect_from:
   - "/wiki/Programming/Java.html"
   - "/wiki/Tips/Programming/Java/"
+  - "/wiki/2009/java-swt-jface/"
 ---
 
 * JFace

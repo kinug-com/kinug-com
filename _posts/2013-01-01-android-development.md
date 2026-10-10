@@ -8,6 +8,7 @@ tags: [android]
 redirect_from:
   - "/wiki/Android/Development.html"
   - "/wiki/Tips/Android/Development/"
+  - "/wiki/2013/android-development/"
 ---
 
 Android でのアプリ開発に関する情報をメモ

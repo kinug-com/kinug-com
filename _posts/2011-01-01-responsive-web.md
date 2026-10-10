@@ -8,6 +8,7 @@ tags: [web]
 redirect_from:
   - "/wiki/Programming/Web.html"
   - "/wiki/Tips/Web/Misc/"
+  - "/wiki/2011/responsive-web/"
 ---
 
 レスポンシブなあれこれ。使えそうなものをメモ。

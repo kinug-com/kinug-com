@@ -8,6 +8,7 @@ tags: [server, git]
 redirect_from:
   - "/wiki/Server/Gitit.html"
   - "/wiki/Tips/Linux/Gitit/"
+  - "/wiki/2011/gitit-setup/"
 ---
 
 Gitit をセットアップしたときのメモ

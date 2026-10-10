@@ -8,6 +8,7 @@ tags: [android]
 redirect_from:
   - "/wiki/Android/Apps.html"
   - "/wiki/Tips/Android/Apps/"
+  - "/wiki/2011/android-apps/"
 ---
 
 Android で使っているアプリをメモっておく。

@@ -6,6 +6,7 @@ field: programming
 tags: [web]
 redirect_from:
   - "/wiki/Services/GitHub.html"
+  - "/wiki/2019/github-pages-custom-domain/"
 ---
 
 GitHub 関係のあれこれ

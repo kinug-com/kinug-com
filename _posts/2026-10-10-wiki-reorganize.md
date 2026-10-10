@@ -4,6 +4,8 @@ date: 2026-10-10
 description: "主題別の wiki をやめて日付順の記録に切り替えた経緯、日付の推定方法、Jekyll での構成。"
 field: programming
 tags: [web, git]
+redirect_from:
+  - "/wiki/2026/wiki-reorganize/"
 ---
 
 このサイトの構成を見直したのでメモ。
@@ -93,3 +95,9 @@ Gitit 時代の URL は拡張子がないので、そのまま書くと拡張子
 
 - kinug.com のトップページがロゴだけで、/wiki/ へのリンクがない。Internet Archive に最近の wiki が保存されていないのは、これが原因かもしれない。
 - 古い記事のリンク先は、かなり切れていると思われる。
+
+## 追記
+
+その後、サイト名を kinug/notes に、URL を /wiki/ から /notes/ に変えた。日付順の記録にしたことで、wiki らしさがほとんどなくなったため。古い URL は、Gitit 時代のものも含めて新しい URL へ転送している。
+
+あわせて、記事ごとに分野を一つ付けて一覧で色分けし、トップページを分野ごとに最近の記事を並べる形にした。

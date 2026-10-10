@@ -8,6 +8,7 @@ tags: [linux]
 redirect_from:
   - "/wiki/Hardware/Toshiba AC100.html"
   - "/wiki/Tips/Android/Toshiba AC100/"
+  - "/wiki/2010/toshiba-ac100-ubuntu/"
 ---
 
 Toshiba AC100(Dynabook AZ) に関するメモ

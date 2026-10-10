@@ -8,6 +8,7 @@ tags: [study]
 redirect_from:
   - "/wiki/Study/Category-Seminar/Category-Seminar.html/"
   - "/wiki/Study/Category-Seminar/Category-Seminar/"
+  - "/wiki/2013/category-theory-seminar/"
 ---
 
 ２０１３年５月～

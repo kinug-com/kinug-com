@@ -8,6 +8,7 @@ tags: [3dcg]
 redirect_from:
   - "/wiki/3DCG/Vue.html"
   - "/wiki/Tips/Vue/General/"
+  - "/wiki/2011/vue-tutorials/"
 ---
 
 ## Vue Tutorial

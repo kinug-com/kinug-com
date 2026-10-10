@@ -8,6 +8,7 @@ tags: [git, windows]
 restored: true
 redirect_from:
   - "/wiki/Tips/Windows/Git/"
+  - "/wiki/2014/git-on-windows/"
 ---
 
 Windows での Git 環境の利用についてメモ

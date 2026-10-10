@@ -6,6 +6,7 @@ field: stage
 tags: []
 redirect_from:
   - "/wiki/AV-Operation/Resolume.html"
+  - "/wiki/2020/resolume-plugin-error/"
 ---
 
 VJ ソフト Resolume に関するメモ

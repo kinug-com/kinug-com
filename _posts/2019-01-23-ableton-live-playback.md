@@ -7,6 +7,7 @@ field: stage
 tags: []
 redirect_from:
   - "/wiki/AV-Operation/Ableton Live.html"
+  - "/wiki/2019/ableton-live-playback/"
 ---
 
 Ableton Live で音出しするときのやり方について。

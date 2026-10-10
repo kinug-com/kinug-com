@@ -8,6 +8,7 @@ tags: [game]
 redirect_from:
   - "/wiki/Game/Cookie Clicker.html"
   - "/wiki/Tips/Cookie Clicker/"
+  - "/wiki/2013/cookie-clicker/"
 ---
 
 Cookie Clicker とは、クリックしてクッキーをゲットするブラウザゲーム。

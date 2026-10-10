@@ -8,6 +8,7 @@ tags: [linux]
 redirect_from:
   - "/wiki/Services/Line.html"
   - "/wiki/Tips/Services/Line/"
+  - "/wiki/2014/line-on-linux/"
 ---
 
 Naver Line についてのあれこれ

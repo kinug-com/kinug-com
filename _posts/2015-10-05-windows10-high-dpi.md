@@ -8,6 +8,7 @@ tags: [windows]
 restored: true
 redirect_from:
   - "/wiki/Tips/Windows 10/Tips/"
+  - "/wiki/2015/windows10-high-dpi/"
 ---
 
 Windows 10 に関するメモ

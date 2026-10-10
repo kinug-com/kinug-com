@@ -8,6 +8,7 @@ tags: [windows]
 redirect_from:
   - "/wiki/Windows/Windows 8 usage.html"
   - "/wiki/Tips/Windows 8/Windows 8 usage/"
+  - "/wiki/2012/windows8-shortcuts/"
 ---
 
 Windows 8 の使い方 Tips

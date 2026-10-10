@@ -8,6 +8,7 @@ tags: [3dcg, cinema4d]
 redirect_from:
   - "/wiki/3DCG/C4D-Development.html"
   - "/wiki/Tips/Cinema 4D/Development/"
+  - "/wiki/2011/c4d-development/"
 ---
 
 ## Cinema 4D

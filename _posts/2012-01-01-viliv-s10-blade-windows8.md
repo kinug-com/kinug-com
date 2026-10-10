@@ -8,6 +8,7 @@ tags: [windows]
 restored: true
 redirect_from:
   - "/wiki/Tips/Windows 8/Viliv S10 Blade/"
+  - "/wiki/2012/viliv-s10-blade-windows8/"
 ---
 
 Viliv S10 Blade に Windows 8 Consumer Preview をセットアップする

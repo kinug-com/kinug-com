@@ -1,7 +1,9 @@
 ---
-title: kinug/wiki
+title: kinug/notes
+redirect_from:
+  - "/wiki/"
 ---
-<h1 class="page-heading">kinug/wiki</h1>
+<h1 class="page-heading">kinug/notes</h1>
 <p class="lead">@kinug の作業記録です。分野ごとに最近の記事を 3 本ずつ並べています。</p>
 
 {%- for f in site.data.fields %}
@@ -21,7 +23,7 @@ title: kinug/wiki
     </li>
     {%- endfor %}
   </ul>
-  <p class="field-summary-more"><a href="{{ '/wiki/all/' | relative_url }}#{{ f.key }}">{{ f.label }}の記事をすべて見る（{{ fposts.size }}本）→</a></p>
+  <p class="field-summary-more"><a href="{{ '/notes/all/' | relative_url }}#{{ f.key }}">{{ f.label }}の記事をすべて見る（{{ fposts.size }}本）→</a></p>
 </section>
 {%- endif %}
 {%- endfor %}
