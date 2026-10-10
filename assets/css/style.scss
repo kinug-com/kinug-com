@@ -124,3 +124,21 @@ th, td { border: 1px solid var(--line); padding: .3rem .6rem; }
 .field-filter .field-all { color: var(--fg); background: var(--chip-bg); font-weight: 600; }
 .field-filter a.is-active { border-color: currentColor; }
 .post-item[hidden] { display: none; }
+
+/* トップ: 分野ごとのサマリー */
+.field-summary { margin: 0 0 2.25rem; }
+.field-summary-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .2rem .8rem; padding-bottom: .4rem; border-bottom: 1px solid var(--line); }
+.field-summary-head h2 { margin: 0; font-size: 1rem; }
+.field-summary-head h2 .field { font-size: .95rem; padding: .1rem .7rem; }
+.field-summary-head p { margin: 0; color: var(--muted); font-size: .8rem; }
+.summary-list { list-style: none; padding: 0; margin: 0; }
+.summary-list li { display: grid; grid-template-columns: 9.5em 1fr; column-gap: 1rem; padding: .55rem 0; border-bottom: 1px dashed var(--line); }
+.summary-list .post-date { color: var(--muted); font-size: .8rem; padding-top: .15rem; }
+.summary-title { grid-column: 2; color: var(--fg); font-weight: 600; text-decoration: none; line-height: 1.5; }
+.summary-title:hover { color: var(--accent); }
+.summary-desc { grid-column: 2; color: var(--muted); font-size: .85rem; line-height: 1.6; }
+.field-summary-more { margin: .5rem 0 0; font-size: .85rem; text-align: right; }
+@media (max-width: 560px) {
+  .summary-list li { grid-template-columns: 1fr; }
+  .summary-title, .summary-desc { grid-column: 1; }
+}
