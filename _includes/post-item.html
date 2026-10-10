@@ -1,5 +1,5 @@
-<li class="post-item">
-  <p class="post-date">{% include post-date.html post=include.post %}</p>
+<li class="post-item" data-field="{{ include.post.field }}">
+  <p class="post-date">{% include field-label.html field=include.post.field %}<span>{% include post-date.html post=include.post %}</span></p>
   <h2 class="post-title"><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h2>
   {%- if include.post.description %}<p class="post-desc">{{ include.post.description }}</p>{% endif %}
   {% include tag-list.html tags=include.post.tags %}

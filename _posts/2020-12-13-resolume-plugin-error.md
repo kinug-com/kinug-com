@@ -2,7 +2,8 @@
 title: "Resolume のプラグインのインストールエラー"
 date: 2020-12-13
 description: "After Effects や Premiere を起動したまま入れると、DXV プラグインの導入に失敗する件。"
-tags: [av]
+field: stage
+tags: []
 redirect_from:
   - "/wiki/AV-Operation/Resolume.html"
 ---

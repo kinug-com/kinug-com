@@ -3,7 +3,8 @@ title: "Haskell プログラムの Windows インストーラ"
 date: 2011-01-01
 date_label: "2011〜2015年頃（推定）"
 description: "MSI を生成する bamse と関連情報。"
-tags: [programming]
+field: programming
+tags: []
 redirect_from:
   - "/wiki/Programming/Haskell.html"
   - "/wiki/Tips/Programming/Haskell/"

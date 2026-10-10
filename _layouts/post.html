@@ -2,6 +2,7 @@
 layout: default
 ---
 <article class="post">
+  <p class="post-field">{% include field-label.html field=page.field %}</p>
   {% include tag-list.html tags=page.tags %}
   <h1 class="post-heading">{{ page.title }}</h1>
   <p class="post-meta">

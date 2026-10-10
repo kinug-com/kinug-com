@@ -2,6 +2,7 @@
 title: "wiki を日付付きの記事一覧に作り替えた"
 date: 2026-10-10
 description: "主題別の wiki をやめて日付順の記録に切り替えた経緯、日付の推定方法、Jekyll での構成。"
+field: programming
 tags: [web, git]
 ---
 
@@ -49,10 +50,11 @@ GitHub Pages 標準の Jekyll ビルドのままで組んだ。GitHub Actions �
     date_label: "2012年頃（推定）"
     updated_label: "2015年9月15日"
     description: "root 化、MVNO SIM でのテザリング、3G 固定、モバイル Suica の不具合。"
-    tags: [android, hardware]
+    field: hardware
+    tags: [android]
     ---
 
-`date_label` を書くと、日付の代わりにその文字列を表示する。正確な日付が分かる記事では省略する。`updated_label` は後から書き足したときの日付。タグの表示名は `_data/tags.yml` にまとめた。
+`date_label` を書くと、日付の代わりにその文字列を表示する。正確な日付が分かる記事では省略する。`updated_label` は後から書き足したときの日付。`field` は記事の分野で、舞台映像・音響、映像制作、プログラミング、ハードウェア、ソフトウェアのどれか一つを書く。一覧では分野が色付きで表示され、分野ごとに絞り込める。分野の一覧は `_data/fields.yml`、タグの表示名は `_data/tags.yml` にまとめた。
 
 一覧、年別、タグの各ページは Liquid で記事から生成している。5 年以上前の記事には「当時の記録」の注記が自動で付くようにした。
 

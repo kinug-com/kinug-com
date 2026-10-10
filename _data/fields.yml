@@ -1,0 +1,12 @@
+# 記事の分野。記事の front matter に field: <key> を 1 つ書く
+# 並び順は一覧での表示順
+- key: stage
+  label: 舞台映像・音響
+- key: video
+  label: 映像制作
+- key: programming
+  label: プログラミング
+- key: hardware
+  label: ハードウェア
+- key: software
+  label: ソフトウェア

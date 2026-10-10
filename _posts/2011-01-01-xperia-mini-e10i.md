@@ -3,7 +3,8 @@ title: "Xperia mini E10i のカスタマイズ"
 date: 2011-01-01
 date_label: "2011年頃（推定）"
 description: "unbrick、root 化、リカバリツール、ROM、アプリ。"
-tags: [android, hardware]
+field: hardware
+tags: [android]
 redirect_from:
   - "/wiki/Hardware/Xperia mini E10i.html"
   - "/wiki/Tips/Android/Xperia mini E10i/"

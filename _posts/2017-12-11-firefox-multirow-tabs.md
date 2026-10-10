@@ -3,6 +3,7 @@ title: "Firefox Quantum でタブバーを多段表示にした"
 date: 2017-12-11
 updated_label: "2017年12月14日"
 description: "userChrome.css を使う方法と、その置き場所。"
+field: software
 tags: [windows]
 redirect_from:
   - "/wiki/Windows/Firefox.html"

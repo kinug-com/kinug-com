@@ -15,7 +15,7 @@ permalink: /wiki/tags/
   <h2 id="{{ key }}">{{ t[1] }}</h2>
   <ul class="compact-list">
     {%- for post in posts %}
-    <li><span class="post-date">{% include post-date.html post=post %}</span> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <li><span class="post-date">{% include post-date.html post=post %}</span> {% include field-label.html field=post.field %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
     {%- endfor %}
   </ul>
 </section>

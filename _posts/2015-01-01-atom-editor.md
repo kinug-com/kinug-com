@@ -3,6 +3,7 @@ title: "Atom エディタを使い始めた"
 date: 2015-01-01
 date_label: "2015年頃（推定）"
 description: "使っている拡張機能、プロキシとフォントの設定、ショートカットキー。"
+field: software
 tags: [editor]
 redirect_from:
   - "/wiki/Editor/Atom.html"

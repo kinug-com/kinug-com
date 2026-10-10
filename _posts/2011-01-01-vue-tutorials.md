@@ -3,6 +3,7 @@ title: "Vue（景観 CG ソフト）のチュートリアル"
 date: 2011-01-01
 date_label: "2011〜2015年頃（推定）"
 description: "e-on software の Vue のチュートリアル動画へのリンク。"
+field: video
 tags: [3dcg]
 redirect_from:
   - "/wiki/3DCG/Vue.html"

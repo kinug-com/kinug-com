@@ -3,6 +3,7 @@ title: "Windows 8 のトラブル対処"
 date: 2012-01-01
 date_label: "2012〜2015年頃（推定）"
 description: "ネットワークドライブのセキュリティ警告と、ストアアプリが保留のまま進まない件。"
+field: software
 tags: [windows]
 redirect_from:
   - "/wiki/Windows/Tips.html"

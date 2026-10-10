@@ -90,3 +90,37 @@ th, td { border: 1px solid var(--line); padding: .3rem .6rem; }
 
 .post-nav { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line); font-size: .85rem; }
 .post-nav .next { text-align: right; }
+
+/* 分野 */
+:root {
+  --f-stage: #b2452c;  --f-stage-bg: #f8e6e0;
+  --f-video: #7448a8;  --f-video-bg: #eee6f7;
+  --f-programming: #2b67a0; --f-programming-bg: #e2edf7;
+  --f-hardware: #3b7a47; --f-hardware-bg: #e3f0e5;
+  --f-software: #876a1c; --f-software-bg: #f4eddb;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --f-stage: #f0a08a;  --f-stage-bg: #3d2620;
+    --f-video: #c7a8ef;  --f-video-bg: #33283f;
+    --f-programming: #95c1ea; --f-programming-bg: #1f2f3e;
+    --f-hardware: #9dd3a7; --f-hardware-bg: #213328;
+    --f-software: #e2c574; --f-software-bg: #352e1c;
+  }
+}
+.field { display: inline-block; padding: 0 .55rem; border-radius: 3px; font-size: .75rem; font-weight: 600; line-height: 1.7; white-space: nowrap; text-decoration: none; }
+.field-stage { color: var(--f-stage); background: var(--f-stage-bg); }
+.field-video { color: var(--f-video); background: var(--f-video-bg); }
+.field-programming { color: var(--f-programming); background: var(--f-programming-bg); }
+.field-hardware { color: var(--f-hardware); background: var(--f-hardware-bg); }
+.field-software { color: var(--f-software); background: var(--f-software-bg); }
+.post-item .post-date { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; }
+.post-field { margin: 0 0 .4rem; }
+.compact-list .field { margin-right: .5rem; font-size: .7rem; }
+
+.field-filter { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1.5rem; }
+.field-filter a { display: inline-flex; flex-direction: column; padding: .35rem .7rem; border-radius: 4px; border: 2px solid transparent; font-size: .85rem; line-height: 1.4; text-decoration: none; }
+.field-filter a small { font-weight: 400; font-size: .72rem; opacity: .85; }
+.field-filter .field-all { color: var(--fg); background: var(--chip-bg); font-weight: 600; }
+.field-filter a.is-active { border-color: currentColor; }
+.post-item[hidden] { display: none; }

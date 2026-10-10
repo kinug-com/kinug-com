@@ -3,6 +3,7 @@ title: "Windows 10 で高 DPI モニタを使う"
 date: 2015-10-05
 date_label: "2015〜2018年頃（推定）"
 description: "表示倍率の設定と、マニフェストで直すアプリの場合。"
+field: software
 tags: [windows]
 restored: true
 redirect_from:

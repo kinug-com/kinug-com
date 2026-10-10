@@ -3,7 +3,8 @@ title: "Toshiba AC100 を Ubuntu 化して使ったアプリ"
 date: 2010-01-01
 date_label: "2010年頃（推定）"
 description: "indicator-multiload、brightside、xmonad、midori など。"
-tags: [hardware, linux]
+field: hardware
+tags: [linux]
 redirect_from:
   - "/wiki/Hardware/Toshiba AC100.html"
   - "/wiki/Tips/Android/Toshiba AC100/"

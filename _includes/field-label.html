@@ -1,0 +1,2 @@
+{%- assign f = site.data.fields | where: "key", include.field | first -%}
+{%- if f %}<span class="field field-{{ f.key }}">{{ f.label }}</span>{% endif -%}

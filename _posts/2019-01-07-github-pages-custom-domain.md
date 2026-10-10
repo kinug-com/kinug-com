@@ -2,6 +2,7 @@
 title: "GitHub Pages で独自ドメインを使う"
 date: 2019-01-07
 description: "独自ドメインと HTTPS の設定記事。"
+field: programming
 tags: [web]
 redirect_from:
   - "/wiki/Services/GitHub.html"
