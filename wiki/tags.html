@@ -1,0 +1,23 @@
+---
+title: タグ
+permalink: /wiki/tags/
+---
+<h1 class="page-heading">タグ</h1>
+<p class="tag-index">
+  {%- for t in site.data.tags %}{% assign key = t[0] %}{% assign n = site.tags[key] | size %}{% if n > 0 %}<a href="#{{ key }}">{{ t[1] }}<small>{{ n }}</small></a>{% endif %}{% endfor %}
+</p>
+{%- for t in site.data.tags %}
+{%- assign key = t[0] %}
+{%- assign posts = site.tags[key] %}
+{%- if posts.size > 0 %}
+{%- assign posts = posts | sort: "date" | reverse %}
+<section class="tag-section">
+  <h2 id="{{ key }}">{{ t[1] }}</h2>
+  <ul class="compact-list">
+    {%- for post in posts %}
+    <li><span class="post-date">{% include post-date.html post=post %}</span> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}
+{%- endfor %}

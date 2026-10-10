@@ -1,0 +1,7 @@
+{%- if include.tags.size > 0 -%}
+<ul class="tags">
+  {%- for t in include.tags -%}
+  <li><a href="{{ '/wiki/tags/' | relative_url }}#{{ t }}">{{ site.data.tags[t] | default: t }}</a></li>
+  {%- endfor -%}
+</ul>
+{%- endif -%}
