@@ -1,8 +1,8 @@
 ---
 title: "Kindle DX を文鎮化から復旧した"
 date: 2010-01-01
-date_label: "2010年頃（推定）"
-updated_label: "2015年頃（推定）"
+date_label: "2010年頃"
+updated_label: "2015年頃"
 description: "シリアルコンソールを作り、root 権限を取って再起動ループから抜けた記録。"
 field: hardware
 tags: []

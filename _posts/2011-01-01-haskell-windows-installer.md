@@ -1,7 +1,7 @@
 ---
 title: "Haskell プログラムの Windows インストーラ"
 date: 2011-01-01
-date_label: "2011〜2015年頃（推定）"
+date_label: "2011〜2015年頃"
 description: "MSI を生成する bamse と関連情報。"
 field: programming
 tags: []

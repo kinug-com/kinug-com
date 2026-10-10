@@ -1,7 +1,7 @@
 ---
 title: "Viliv S10 Blade に Windows 8 Consumer Preview を入れた"
 date: 2012-01-01
-date_label: "2012年頃（推定）"
+date_label: "2012年頃"
 description: "インストール、GMA 500、タッチパネル、Wi-Fi、3G、Bluetooth のドライバ対応。"
 field: hardware
 tags: [windows]

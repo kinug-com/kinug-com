@@ -1,7 +1,7 @@
 ---
 title: "Galaxy Note SC-05D を root 化した"
 date: 2013-01-01
-date_label: "2013年頃（推定）"
+date_label: "2013年頃"
 description: "Android 4.1.2 で CWM と SuperSU を焼いた手順と、UnRoot の方法。"
 field: hardware
 tags: [android]

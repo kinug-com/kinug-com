@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 のショートカットキー"
 date: 2012-01-01
-date_label: "2012年頃（推定）"
+date_label: "2012年頃"
 description: "Windows キーとの組み合わせの一覧。"
 field: software
 tags: [windows]

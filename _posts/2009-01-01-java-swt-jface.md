@@ -1,7 +1,7 @@
 ---
 title: "SWT と JFace の GUI プログラミング"
 date: 2009-01-01
-date_label: "2009年頃（推定）"
+date_label: "2009年頃"
 description: "チュートリアルと、プロジェクトに必要な JAR ファイル。"
 field: programming
 tags: []

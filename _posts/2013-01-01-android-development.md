@@ -1,7 +1,7 @@
 ---
 title: "Android アプリ開発の情報"
 date: 2013-01-01
-date_label: "2013年頃（推定）"
+date_label: "2013年頃"
 description: "PhoneGap のスライドへのリンク。"
 field: programming
 tags: [android]

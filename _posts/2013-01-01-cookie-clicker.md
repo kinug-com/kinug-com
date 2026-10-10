@@ -1,7 +1,7 @@
 ---
 title: "Cookie Clicker の攻略情報とツール"
 date: 2013-01-01
-date_label: "2013年頃（推定）"
+date_label: "2013年頃"
 description: "攻略サイトと、プレイを効率化する Greasemonkey スクリプト。"
 field: software
 tags: [game]

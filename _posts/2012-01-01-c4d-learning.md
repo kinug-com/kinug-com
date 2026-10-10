@@ -1,7 +1,7 @@
 ---
 title: "Cinema 4D の入門サイトと書籍"
 date: 2012-01-01
-date_label: "2012年頃（推定）"
+date_label: "2012年頃"
 description: "入門テキスト、チュートリアル、フォーラム、書籍のリンク集。"
 field: video
 tags: [3dcg, cinema4d]

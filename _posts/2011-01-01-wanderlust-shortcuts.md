@@ -1,7 +1,7 @@
 ---
 title: "Wanderlust のショートカット"
 date: 2011-01-01
-date_label: "2011〜2015年頃（推定）"
+date_label: "2011〜2015年頃"
 description: "フォルダ、サマリ、メッセージ、ドラフトの各モードのキー操作。"
 field: software
 tags: [editor, emacs]

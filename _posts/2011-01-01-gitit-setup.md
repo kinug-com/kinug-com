@@ -1,7 +1,7 @@
 ---
 title: "Gitit をセットアップした"
 date: 2011-01-01
-date_label: "2011年頃（推定）"
+date_label: "2011年頃"
 description: "インストール、起動、Apache 連携、jsMath、プラグイン。"
 field: software
 tags: [server, git]

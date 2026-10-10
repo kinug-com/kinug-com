@@ -15,7 +15,7 @@ layout: default
   {%- assign age = this_year | minus: post_year -%}
   {%- if age >= site.old_post_years %}
   <aside class="notice">
-    {%- if page.date_label %}{% assign when = page.date_label | remove: "（推定）" %}{% else %}{% capture when %}{{ post_year }}年{% endcapture %}{% endif %}
+    {%- if page.date_label %}{% assign when = page.date_label %}{% else %}{% capture when %}{{ post_year }}年{% endcapture %}{% endif %}
     <strong>{{ when }}の記録です。</strong>
     当時の環境を前提に書いているため、手順やリンク先が現在とは異なる可能性があります。
   </aside>

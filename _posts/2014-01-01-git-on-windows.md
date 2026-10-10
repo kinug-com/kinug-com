@@ -1,7 +1,7 @@
 ---
 title: "Windows で Git を使う"
 date: 2014-01-01
-date_label: "2014年頃（推定）"
+date_label: "2014年頃"
 description: "Git for Windows と、ssh でリモートのリポジトリに接続するときの指定。"
 field: programming
 tags: [git, windows]

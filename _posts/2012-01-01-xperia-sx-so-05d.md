@@ -1,7 +1,7 @@
 ---
 title: "Xperia SX SO-05D を root 化してカスタマイズした"
 date: 2012-01-01
-date_label: "2012年頃（推定）"
+date_label: "2012年頃"
 updated_label: "2015年9月15日"
 description: "root 化、MVNO SIM でのテザリング、3G 固定、モバイル Suica の不具合。"
 field: hardware
