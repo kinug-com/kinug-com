@@ -1,10 +1,11 @@
 ---
 title: kinug/notes
+hide_footer: true
 redirect_from:
   - "/wiki/"
 ---
 <h1 class="page-heading">kinug/notes</h1>
-<p class="lead">@kinug の作業記録です。分野ごとに最近の記事を 3 本ずつ並べています。</p>
+<p class="lead"><a href="https://twitter.com/kinug">@kinug</a> の作業記録です。内容は書いた時点のものです。</p>
 
 {%- for f in site.data.fields %}
 {%- assign fposts = site.posts | where: "field", f.key %}

@@ -31,10 +31,12 @@
   <main class="wrap">
     {{ content }}
   </main>
+  {%- unless page.hide_footer %}
   <footer class="site-footer">
     <div class="wrap">
       <a href="https://twitter.com/kinug">@kinug</a> の作業記録です。内容は書いた時点のものです。
     </div>
   </footer>
+  {%- endunless %}
 </body>
 </html>
